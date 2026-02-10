@@ -169,3 +169,21 @@ CUSTOM_SEARCH_ENGINE_API_KEY=your_search_engine_id
 
 # Security
 SECRET_KEY=your_secret_key
+```
+
+---
+
+## 프로젝트 구조
+```
+📦 Contextual-News-Recommender
+├── 📂 api               # API Routers & Dependencies
+├── 📂 core              # DB Connection, Template Config
+├── 📂 domain            # Models(DTO), Interfaces
+├── 📂 infrastructure    # DB Repositories, External Adapters
+├── 📂 services          # Business Logic
+├── 📂 templates         # Jinja2 HTML Templates
+├── 📂 utils             # Middleware, Exception Handlers
+├── 📜 celery_worker.py  # Celery Task Definitions
+├── 📜 main.py           # Application Entry Point
+└── 📜 requirements.txt  # Project Dependencies
+```

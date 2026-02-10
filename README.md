@@ -1,0 +1,1 @@
+https://github.com/zrp0x0/Contextual-News-Recommender/blob/main/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%EA%B8%B0%EB%A7%90%20FULL%20%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C%2010%ED%8C%80%20.pdf
